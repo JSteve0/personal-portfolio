@@ -10,7 +10,11 @@
       <div class="info-content">
         <h1 class="name" title="Justin Stevens">Justin Stevens</h1>
 
-        <p class="title">Computer Scientist @ Millersville University</p>
+        <p class="title">
+          Computer Scientist @ Millersville University
+          <br>
+          Software Engineer Intern @ CNH Industrial
+        </p>
       </div>
 
       <button class="info_more-btn" data-sidebar-btn>

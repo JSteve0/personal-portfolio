@@ -22,7 +22,7 @@
           <h4 class="h4 timeline-item-title">Millersville University</h4>
 
           <span>Bachelor of Science in Computer Science</span>
-          <span>3.67 GPA</span>
+          <span>Overall GPA: 3.67; Major GPA: 3.91</span>
           <span>August 2020 — December 2023</span>
 
           <ul>

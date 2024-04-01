@@ -6,7 +6,7 @@
     </header>
 
     <section class="about-text">
-      <p>I'm a junior Computer Science major with a Mathematics minor at Millersville University, and I'm passionate
+      <p>I'm a Senior Computer Science major at Millersville University, and I'm passionate
         about technology. I'm currently gaining hands-on experience as a Software Engineer Intern at CNH Industrial in
         New Holland, PA, where I'm working on developing and maintaining complex software systems. It's been a great
         opportunity to apply what I've learned in the classroom to real-world situations, learn about the latest
@@ -37,7 +37,7 @@
 
     <section class="service">
 
-      <h3 class="h3 service-title">What i'm doing</h3>
+      <h3 class="h3 service-title">What I'm doing</h3>
 
       <ul class="service-list">
 
@@ -49,7 +49,7 @@
           </div>
 
           <div class="service-content-box">
-            <h4 class="h4 service-item-title">Software Development </h4>
+            <h4 class="h4 service-item-title">Software Development</h4>
 
             <p class="service-item-text">
               Designing and engineering robust software solutions with a focus on efficiency and scalability.

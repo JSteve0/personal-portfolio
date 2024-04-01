@@ -71,33 +71,28 @@ const filterBtn = document.querySelectorAll("[data-filter-btn]");
 select.addEventListener("click", function () { elementToggleFunc(this); });
 
 // add event in all select items
-for (let i = 0; i < selectItems.length; i++) {
-    selectItems[i].addEventListener("click", function () {
-
-        let selectedValue = this.innerText.toLowerCase();
-        selectValue.innerText = this.innerText;
-        elementToggleFunc(select);
-        filterFunc(selectedValue);
-
-    });
-}
+selectItems.forEach((item) => {
+  item.addEventListener("click", () => {
+    let selectedValue = this.innerText.toLowerCase();
+    selectValue.innerText = this.innerText;
+    elementToggleFunc(select);
+    filterFunc(selectedValue);
+  });
+});
 
 // filter variables
 const filterItems = document.querySelectorAll("[data-filter-item]");
 
 const filterFunc = function (selectedValue) {
-
-    for (let i = 0; i < filterItems.length; i++) {
-
-        if (selectedValue === "all") {
-            filterItems[i].classList.add("active");
-        } else if (filterItems[i].dataset.category.includes(selectedValue)) {
-            filterItems[i].classList.add("active");
-        } else {
-            filterItems[i].classList.remove("active");
-        }
-
+  filterItems.forEach((item) => {
+    if (selectedValue === "all") {
+      item.classList.add("active");
+    } else if (item.dataset.category.includes(selectedValue)) {
+      item.classList.add("active");
+    } else {
+      item.classList.remove("active");
     }
+  });
 
 }
 
