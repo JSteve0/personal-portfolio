@@ -74,22 +74,14 @@
           </a>
         </li>
 
-        <li
-          class="project-item active"
-          data-filter-item
-          data-category="game development web development"
-        >
+        <li class="project-item active" data-filter-item data-category="game development web development">
           <a href="https://jsteve0.github.io/P5Game/" target="_blank">
             <figure class="project-img">
               <div class="project-item-icon-box">
                 <ion-icon name="eye-outline"></ion-icon>
               </div>
 
-              <img
-                src="@/assets/images/project-images/frostbyt3-the-videogame.png"
-                alt="orizon"
-                loading="lazy"
-              />
+              <img src="@/assets/images/project-images/frostbyt3-the-videogame.png" alt="orizon" loading="lazy" />
             </figure>
 
             <h3 class="project-title">FrostByt3TheVideogame</h3>
@@ -98,11 +90,7 @@
           </a>
         </li>
 
-        <li
-          class="project-item active"
-          data-filter-item
-          data-category="applications game development"
-        >
+        <li class="project-item active" data-filter-item data-category="applications game development">
           <!--<a href="#">-->
 
           <figure class="project-img">
@@ -110,11 +98,7 @@
               <ion-icon name="eye-outline"></ion-icon>
             </div>-->
 
-            <img
-              src="@/assets/images/project-images/simulator.png"
-              alt="Microsurgical Simulator"
-              loading="lazy"
-            />
+            <img src="@/assets/images/project-images/simulator.png" alt="Microsurgical Simulator" loading="lazy" />
           </figure>
 
           <h3 class="project-title">Microsurgical Simulator</h3>
@@ -124,22 +108,14 @@
           <!--</a>-->
         </li>
 
-        <li
-          class="project-item active"
-          data-filter-item
-          data-category="game development web development"
-        >
+        <li class="project-item active" data-filter-item data-category="game development web development">
           <a href="https://jsteve0.github.io/Pong/" target="_blank">
             <figure class="project-img">
               <div class="project-item-icon-box">
                 <ion-icon name="eye-outline"></ion-icon>
               </div>
 
-              <img
-                src="@/assets/images/project-images/pong.png"
-                alt="Pong Replica"
-                loading="lazy"
-              />
+              <img src="@/assets/images/project-images/pong.png" alt="Pong Replica" loading="lazy" />
             </figure>
 
             <h3 class="project-title">Pong Replica</h3>
@@ -155,11 +131,7 @@
                 <ion-icon name="eye-outline"></ion-icon>
               </div>
 
-              <img
-                src="@/assets/images/project-images/image-generator.png"
-                alt="Image Generator"
-                loading="lazy"
-              />
+              <img src="@/assets/images/project-images/image-generator.png" alt="Image Generator" loading="lazy" />
             </figure>
 
             <h3 class="project-title">OpenAI Image Generator</h3>
@@ -175,11 +147,7 @@
                 <ion-icon name="eye-outline"></ion-icon>
               </div>
 
-              <img
-                src="@/assets/images/project-images/image-generator.png"
-                alt="Graphics Engine"
-                loading="lazy"
-              />
+              <img src="@/assets/images/project-images/image-generator.png" alt="Graphics Engine" loading="lazy" />
             </figure>
 
             <h3 class="project-title">OpenGL Graphics Engine</h3>
@@ -195,11 +163,7 @@
                 <ion-icon name="eye-outline"></ion-icon>
               </div>
 
-              <img
-                src="@/assets/images/project-images/amazing-escape.png"
-                alt="Amazing Escape"
-                loading="lazy"
-              />
+              <img src="@/assets/images/project-images/amazing-escape.png" alt="Amazing Escape" loading="lazy" />
             </figure>
 
             <h3 class="project-title">Amazing Escape</h3>
@@ -215,11 +179,7 @@
                 <ion-icon name="eye-outline"></ion-icon>
               </div>
 
-              <img
-                src="@/assets/images/project-images/hopping-home.png"
-                alt="Hopping Home"
-                loading="lazy"
-              />
+              <img src="@/assets/images/project-images/hopping-home.png" alt="Hopping Home" loading="lazy" />
             </figure>
 
             <h3 class="project-title">Hopping Home</h3>
@@ -236,11 +196,7 @@
               <ion-icon name="eye-outline"></ion-icon>
             </div>-->
 
-            <img
-              src="@/assets/images/project-images/bloons-copied-us.png"
-              alt="Bloons Copied Us"
-              loading="lazy"
-            />
+            <img src="@/assets/images/project-images/bloons-copied-us.png" alt="Bloons Copied Us" loading="lazy" />
           </figure>
 
           <h3 class="project-title">Bloons Copied Us</h3>
@@ -255,6 +211,6 @@
 </template>
 <script>
 export default {
-  name: 'portfolio-page'
-}
+  name: 'portfolio-page',
+};
 </script>

@@ -26,11 +26,10 @@
               <p class="timeline-text">
                 Clubs:
                 <br />
-                Vice President of the Technology Career Network (TCN) where we help students in STEM
-                prepare and apply for jobs.
+                Vice President of the Technology Career Network (TCN) where we help students in STEM prepare and apply
+                for jobs.
                 <br />
-                Member of the Coding Club where we work on LeetCode style problems and other coding
-                challenges.
+                Member of the Coding Club where we work on LeetCode style problems and other coding challenges.
               </p>
             </li>
           </ul>
@@ -54,8 +53,8 @@
           <span>January 2023 — Present</span>
 
           <p class="timeline-text">
-            Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos
-            dolores et qvuas molestias exceptur.
+            Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas
+            molestias exceptur.
           </p>
         </li>
 
@@ -65,33 +64,29 @@
           <span>September 2023 — Present</span>
 
           <p class="timeline-text">
-            Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti,
-            quos dolores et quas molestias exceptur.
+            Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas
+            molestias exceptur.
           </p>
         </li>
 
         <li class="timeline-item">
-          <h4 class="h4 timeline-item-title">
-            Computer Science Student Grader @ Millersville University
-          </h4>
+          <h4 class="h4 timeline-item-title">Computer Science Student Grader @ Millersville University</h4>
 
           <span>Jan 2022 — Present</span>
 
           <p class="timeline-text">
-            Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti,
-            quos dolores et quas molestias exceptur.
+            Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas
+            molestias exceptur.
           </p>
         </li>
         <li class="timeline-item">
-          <h4 class="h4 timeline-item-title">
-            Application Developer Intern @ Church Mutual Insurance
-          </h4>
+          <h4 class="h4 timeline-item-title">Application Developer Intern @ Church Mutual Insurance</h4>
 
           <span>June 2022 — August 2022</span>
 
           <p class="timeline-text">
-            Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti,
-            quos dolores et quas molestias exceptur.
+            Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas
+            molestias exceptur.
           </p>
         </li>
       </ol>
@@ -139,6 +134,6 @@
 </template>
 <script>
 export default {
-  name: 'resume-page'
-}
+  name: 'resume-page',
+};
 </script>

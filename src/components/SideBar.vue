@@ -34,9 +34,7 @@
           <div class="contact-info">
             <p class="contact-title">Email</p>
 
-            <a href="mailto:jmsteve1@millersville.edu" class="contact-link"
-              >jmsteve1@millersville.edu</a
-            >
+            <a href="mailto:jmsteve1@millersville.edu" class="contact-link">jmsteve1@millersville.edu</a>
           </div>
         </li>
 
@@ -63,11 +61,7 @@
         </li>
 
         <li class="social-item">
-          <a
-            href="https://www.linkedin.com/in/justin-stevens-77546021b/"
-            class="social-link"
-            target="_blank"
-          >
+          <a href="https://www.linkedin.com/in/justin-stevens-77546021b/" class="social-link" target="_blank">
             <ion-icon name="logo-linkedin"></ion-icon>
           </a>
         </li>
@@ -78,8 +72,8 @@
 
 <script>
 export default {
-  name: 'SideBar'
-}
+  name: 'SideBar',
+};
 </script>
 
 <style scoped></style>

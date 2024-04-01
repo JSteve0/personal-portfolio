@@ -18,36 +18,16 @@
       <form action="#" class="form" data-form>
         <div class="input-wrapper">
           <label>
-            <input
-              type="text"
-              name="fullname"
-              class="form-input"
-              placeholder="Full name"
-              required
-              data-form-input
-            />
+            <input type="text" name="fullname" class="form-input" placeholder="Full name" required data-form-input />
           </label>
 
           <label>
-            <input
-              type="email"
-              name="email"
-              class="form-input"
-              placeholder="Email address"
-              required
-              data-form-input
-            />
+            <input type="email" name="email" class="form-input" placeholder="Email address" required data-form-input />
           </label>
         </div>
 
         <label>
-          <textarea
-            name="message"
-            class="form-input"
-            placeholder="Your Message"
-            required
-            data-form-input
-          ></textarea>
+          <textarea name="message" class="form-input" placeholder="Your Message" required data-form-input></textarea>
         </label>
 
         <button class="form-btn" type="submit" disabled data-form-btn>
@@ -60,6 +40,6 @@
 </template>
 <script>
 export default {
-  name: 'contact-page'
-}
+  name: 'contact-page',
+};
 </script>
