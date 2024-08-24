@@ -38,7 +38,7 @@
           </li>
 
           <li class="select-item">
-            <button data-select-item>C</button>
+            <button data-select-item>Game Development</button>
           </li>
 
           <li class="select-item">

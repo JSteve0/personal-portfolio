@@ -6,34 +6,13 @@
 
     <section class="about-text">
       <p>
-        I'm a Senior Computer Science major at Millersville University, and I'm passionate about technology. I'm
-        currently gaining hands-on experience as a Software Engineer Intern at CNH Industrial in New Holland, PA, where
-        I'm working on developing and maintaining complex software systems. It's been a great opportunity to apply what
-        I've learned in the classroom to real-world situations, learn about the latest technologies and industry trends,
-        and collaborate with a team of experienced engineers.
+        I'm a Technical Support Engineer at Cargas Systems, where I provide technical support for a range of applications built with HTML, JavaScript, CSS, C#, and Microsoft SQL Server. I hold a Bachelor's Degree in Computer Science from Millersville University, with a focus on Game Development, Computer Graphics, and Artificial Intelligence.
       </p>
-
       <p>
-        In addition to my internship, I'm also conducting research on building a microsurgery simulator in Unity. My
-        specific focus is on developing a more advanced and lifelike suture to improve the simulator's realism and
-        effectiveness as a training tool. I'm excited to be writing a thesis on this research, which will allow me to
-        explore the intersection of technology and healthcare more deeply. Through this project, I'm able to apply my
-        programming skills in a unique way and contribute to the advancement of medical training.
+        During my undergraduate studies, I conducted research on developing a microsurgical simulator, specifically targeting eye surgery. My thesis, titled Modeling a Microsurgical Suture in Unity, explores the intricacies of simulating microsurgical procedures in a virtual environment.
       </p>
-
       <p>
-        Apart from my internship and research, I also serve as a student grader for the Computer Science department at
-        Millersville University. This role has allowed me to sharpen my leadership and communication skills while
-        contributing to the growth of future Computer Science students. It's been a great opportunity to connect with my
-        peers and share my knowledge and experience with others who are just starting on their own journeys in the
-        field.
-      </p>
-
-      <p>
-        Overall, my academic and practical experiences have equipped me with a strong foundation in computer science
-        theory and practical application, as well as the skills needed to make meaningful contributions to the tech
-        industry. I'm excited to see where my passions and experiences will take me in the future, whether it's pursuing
-        a career in software engineering or research.
+        Looking ahead, I aspire to transition into a software developer role, where I can leverage my technical skills to build innovative solutions. In my free time, I enjoy working on personal projects, mainly using HTML, JavaScript, CSS, and C#. Outside of coding, I love playing golf, ping pong, and gaming—currently, I'm immersed in Red Dead Redemption 2.
       </p>
     </section>
 

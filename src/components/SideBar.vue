@@ -9,9 +9,7 @@
         <h1 class="name" title="Justin Stevens">Justin Stevens</h1>
 
         <p class="title">
-          Computer Scientist @ Millersville University
-          <br />
-          Software Engineer Intern @ CNH Industrial
+          Technical Support Engineer @ Cargas
         </p>
       </div>
 
@@ -34,7 +32,7 @@
           <div class="contact-info">
             <p class="contact-title">Email</p>
 
-            <a href="mailto:jmsteve1@millersville.edu" class="contact-link">jmsteve1@millersville.edu</a>
+            <a href="mailto:jmms5757@gmail.com" class="contact-link">jmms5757@gmail.com</a>
           </div>
         </li>
 
@@ -46,7 +44,7 @@
           <div class="contact-info">
             <p class="contact-title">Location</p>
 
-            <address>Millersville, Pennsylvania, USA</address>
+            <address>Lancaster, Pennsylvania, USA</address>
           </div>
         </li>
       </ul>
