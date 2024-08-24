@@ -1,19 +1,15 @@
 <template>
   <aside class="sidebar" data-sidebar>
-
     <div class="sidebar-info">
-
       <figure class="avatar-box">
-        <img src="@/assets/images/my-avatar.png" alt="Justin Stevens" width="80">
+        <img src="@/assets/images/my-avatar.png" alt="Justin Stevens" width="80" />
       </figure>
 
       <div class="info-content">
         <h1 class="name" title="Justin Stevens">Justin Stevens</h1>
 
         <p class="title">
-          Computer Scientist @ Millersville University
-          <br>
-          Software Engineer Intern @ CNH Industrial
+          Technical Support Engineer @ Cargas
         </p>
       </div>
 
@@ -22,17 +18,13 @@
 
         <ion-icon name="chevron-down"></ion-icon>
       </button>
-
     </div>
 
     <div class="sidebar-info_more">
-
       <div class="separator"></div>
 
       <ul class="contacts-list">
-
         <li class="contact-item">
-
           <div class="icon-box">
             <ion-icon name="mail-outline"></ion-icon>
           </div>
@@ -40,13 +32,11 @@
           <div class="contact-info">
             <p class="contact-title">Email</p>
 
-            <a href="mailto:jmsteve1@millersville.edu" class="contact-link">jmsteve1@millersville.edu</a>
+            <a href="mailto:jmms5757@gmail.com" class="contact-link">jmms5757@gmail.com</a>
           </div>
-
         </li>
 
         <li class="contact-item">
-
           <div class="icon-box">
             <ion-icon name="location-outline"></ion-icon>
           </div>
@@ -54,17 +44,14 @@
           <div class="contact-info">
             <p class="contact-title">Location</p>
 
-            <address>Millersville, Pennsylvania, USA</address>
+            <address>Lancaster, Pennsylvania, USA</address>
           </div>
-
         </li>
-
       </ul>
 
       <div class="separator"></div>
 
       <ul class="social-list">
-
         <li class="social-item">
           <a href="https://github.com/JSteve0" class="social-link" target="_blank">
             <ion-icon name="logo-github"></ion-icon>
@@ -76,20 +63,15 @@
             <ion-icon name="logo-linkedin"></ion-icon>
           </a>
         </li>
-
       </ul>
-
     </div>
-
   </aside>
 </template>
 
 <script>
 export default {
-  name: "SideBar"
-}
+  name: 'SideBar',
+};
 </script>
 
-<style scoped>
-
-</style>
+<style scoped></style>

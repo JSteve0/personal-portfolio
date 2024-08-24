@@ -1,10 +1,8 @@
 <template>
   <nav class="navbar">
-
     <ul class="navbar-list">
-
       <li class="navbar-item">
-        <button class="navbar-link  active" data-nav-link>About</button>
+        <button class="navbar-link active" data-nav-link>About</button>
       </li>
 
       <li class="navbar-item">
@@ -22,13 +20,11 @@
       <li class="navbar-item">
         <button class="navbar-link" data-nav-link>Contact</button>
       </li>
-
     </ul>
-
   </nav>
 </template>
 <script>
 export default {
-  name: 'navbar'
-}
+  name: 'navbar',
+};
 </script>

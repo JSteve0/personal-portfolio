@@ -3,27 +3,25 @@
     <side-bar />
 
     <div class="main-content">
-      <navbar/>
+      <navbar />
 
-      <about-page/>
+      <about-page />
 
-      <resume-page/>
+      <resume-page />
 
-      <portfolio-page/>
+      <portfolio-page />
 
-<!--      <blog-page/>-->
+      <!--      <blog-page/>-->
 
-      <contact-page/>
-
+      <contact-page />
     </div>
-
   </main>
 </template>
 <script setup>
-import SideBar from "@/components/SideBar.vue";
-import Navbar from "@/components//Navbar.vue";
-import AboutPage from "@/components//AboutPage.vue";
-import ResumePage from "@/components//ResumePage.vue";
-import PortfolioPage from "@/components//PortfolioPage.vue";
-import ContactPage from "@/components//ContactPage.vue";
+import SideBar from '@/components/SideBar.vue';
+import Navbar from '@/components//Navbar.vue';
+import AboutPage from '@/components//AboutPage.vue';
+import ResumePage from '@/components//ResumePage.vue';
+import PortfolioPage from '@/components//PortfolioPage.vue';
+import ContactPage from '@/components//ContactPage.vue';
 </script>
